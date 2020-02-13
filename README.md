@@ -8,7 +8,7 @@ When doing image processing in specific field like medical image, we not only ne
 
 1. Given a point as the center, and its radius, it generates octagon centered on this point and generates a list of points of the edges of this octagon.
 
-![1_1](https://github.com/RiverLeeGitHub/Track-Vectorization/blob/master/Explaination/1_1.png)
+   ![1_1](https://github.com/RiverLeeGitHub/Track-Vectorization/blob/master/Explaination/1_1.png)
 
 2. Detect the center point of each trajectory on the margin, and get the directions of each trajectory.
 
